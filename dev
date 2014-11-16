@@ -1,0 +1,18 @@
+sublime-text
+the_silver_searcher
+#somehow gvim gets installed?
+gvim
+
+# optional dependency for spf13
+ctags
+
+mongodb
+nodejs
+redis
+ruby
+postgresql
+postgresql-libs
+r
+
+# optional requirement for many packages
+tk

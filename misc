@@ -1,0 +1,79 @@
+# Harddisk analysis tool
+baobab
+
+# Browsers and support
+chromium
+firefox
+flashplugin
+
+# Printing
+cups
+
+skype
+
+dropbox
+
+#PDF viewer
+evince
+
+# Image viewer
+mirgage
+
+#Mindmaps
+freemind
+
+# Graph editor
+yed
+
+# Image editor
+#gimp
+
+# process viewer
+htop
+ntp
+openssh
+ranger
+s3cmd
+xclip
+zip
+tree
+unzip
+
+#Sound
+pavucontrol
+pulseaudio
+pulseaudio-alsa
+alsa-utils
+
+zsh
+
+syslinux
+
+thunar
+
+# There were some issues with the standard `time` in arch
+time
+
+# Some network goodies
+traceroute
+whois
+
+# Wifi
+wpa_supplicant
+
+# Ethernet
+ifplugd
+
+# screenshots
+scrot
+
+ufw
+
+# learn to type
+#gtypist
+
+# access sensors information
+lm_sensors
+
+acpid
+avahi

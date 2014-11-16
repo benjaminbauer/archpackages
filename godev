@@ -1,0 +1,4 @@
+go
+# go optionally requires bzr: for fetching sources from bazaar repositories
+bzr
+mercurial

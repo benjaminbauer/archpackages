@@ -1,0 +1,2 @@
+# not sure, but this fixed some problem when compiling arduino sketches
+avr-gdb
