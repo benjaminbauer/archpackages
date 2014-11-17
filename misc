@@ -1,9 +1,13 @@
+yaourt
+
 # Harddisk analysis tool
 baobab
 
 # Browsers and support
 chromium
 firefox
+gst-libav
+gst-plugins-good
 flashplugin
 
 # Printing
@@ -28,6 +32,9 @@ yed
 # Image editor
 #gimp
 
+lastpass
+spotify
+
 # process viewer
 htop
 ntp
@@ -46,6 +53,7 @@ pulseaudio-alsa
 alsa-utils
 
 zsh
+zsh-syntax-highlighting-git
 
 syslinux
 

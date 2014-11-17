@@ -4,8 +4,7 @@ xorg-server-utils
 xorg-utils
 xorg-xinit
 
-
-
+#TODO do I use slim or i3lock?
 i3-wm
 i3lock
 i3status
@@ -33,3 +32,12 @@ ttf-baekmuk
 ttf-dejavu
 ttf-droid
 ttf-inconsolata
+ttf-microsoft-tahoma
+ttf-ms-fonts
+ttf-noto
+
+newlooks-theme
+gtk-chtheme
+
+notify-osd-customizable
+notifyconf
