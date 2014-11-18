@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # Get unique packages
-sort <(bash ./printAllInstalledPackages.sh) <(bash ./printAllPackages.sh) | uniq -u > /tmp/unique
+sort <(bash ./installedPackages.sh) <(bash ./definedPackages.sh) | uniq -u > /tmp/unique
 
-join /tmp/unique <(bash ./printAllPackages.sh) -a1
+join /tmp/unique <(bash ./definedPackages.sh) -a1
