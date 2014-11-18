@@ -1,7 +1,6 @@
 sublime-text
 the_silver_searcher
-#somehow gvim gets installed?
-gvim
+vim
 
 # optional dependency for spf13
 ctags
