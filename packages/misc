@@ -85,3 +85,6 @@ lm_sensors
 
 acpid
 avahi
+
+# used for config file management
+stow
